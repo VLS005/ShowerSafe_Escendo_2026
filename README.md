@@ -18,6 +18,9 @@ Inform: An I2C display starts a digital timer to track the precise duration of u
 
 ## Components: 
 Sensors: pressure sensor, ultrasonic sensor 
+
 Displays: I2C, LED light 
+
 Microprocessor: ESP-32 
+
 Others: motors 
